@@ -3,12 +3,12 @@
 
 // Array to hold image URLs
 const images = [
-    'image1.jpg',
-    'image2.jpg',
-    'image3.jpg',
-    'image4.jpg',
-    'image5.jpg',
-    'image6.jpg'
+    'https://cdn.acciojob.com/questions-data/Screen_Recording_2023-01-31_at_6_40_51_PM_AdobeExpress.gif',
+    'https://cdn.acciojob.com/questions-data/Screen_Recording_2023-01-31_at_6_40_51_PM_AdobeExpress.gif',
+    'https://cdn.acciojob.com/questions-data/Screen_Recording_2023-01-31_at_6_40_51_PM_AdobeExpress.gif',
+    'https://cdn.acciojob.com/questions-data/Screen_Recording_2023-01-31_at_6_40_51_PM_AdobeExpress.gif',
+    'https://cdn.acciojob.com/questions-data/Screen_Recording_2023-01-31_at_6_40_51_PM_AdobeExpress.gif',
+    'https://cdn.acciojob.com/questions-data/Screen_Recording_2023-01-31_at_6_40_51_PM_AdobeExpress.gif'
 ];
 
 // Get elements
